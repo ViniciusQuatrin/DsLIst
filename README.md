@@ -4,9 +4,9 @@ Projeto Back-End em Java Spring utilizando REST API. Realizado durante o "Intens
 
 ## Tecnologias utilizadas: 
 * Java SpringBoot
-* JPA
+* JPA / Hibernate
 * JDBC
-* h2-console
+* Maven
 * REST API
 * ORM
 
